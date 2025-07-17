@@ -40,7 +40,7 @@ python -m unittest discover tests
 ```
 
 ## Demo
-![Sweet Shop Demo](screenshots/sweetshop-demo.png)
+![Sweet Shop Demo](./screenshots/sweetshop-demo.png)
 
 ## Project Structure
 ```
