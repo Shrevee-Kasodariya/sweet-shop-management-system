@@ -39,6 +39,9 @@ A simple, modern web application for managing a sweet shop inventory. Built with
 python -m unittest discover tests
 ```
 
+## Demo
+![Sweet Shop Demo](screenshots/sweetshop-demo.png)
+
 ## Project Structure
 ```
 api.py                # Flask API
